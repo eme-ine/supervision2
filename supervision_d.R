@@ -20,3 +20,4 @@ dim(sup_d)
 view_df(sup_d)
 
 frq(sup_d$SD_A5)
+frq(sup_d$SD_A10)
