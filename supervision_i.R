@@ -16,8 +16,9 @@ options(scipen=999) # valores sin notación científica
 
 
 sup_i <- haven::read_dta("input/supervision_indirecta/Sup_I_VII_EME.dta")
-
 names(sup_i)
+
+# 3. exploración de datos
 
 dim(sup_i)
 view_df(sup_i)
@@ -120,6 +121,9 @@ descr(sup_i$SI_HR1)
 
 find_var(sup_i$gasto_mensual_d3)
 
+
+# 4. selección de variables
+
 proc_sup_i <- sup_i %>% select(MARCO, # año muestral
                                GLOSA_PROVINCIA, # nombre provincias
                                GLOSA_COMUNA, # nombre comunas
@@ -174,6 +178,68 @@ proc_sup_i <- sup_i %>% select(MARCO, # año muestral
 names(proc_sup_i)                               
 
 sjlabelled::get_label(proc_sup_i)
+
+# 5. procesamiento de variables
+
+# A. descriptivo
+
+# Para los descriptivos se utilizará la función frq, de la librería sjmisc -> Juan Carlos Castillo
+
+frq(proc_sup_i$MARCO)
+frq(proc_sup_i$GLOSA_PROVINCIA)
+frq(proc_sup_i$MZ_ENUMERACION)
+frq(proc_sup_i$ESTRATO_RURAL_URBANO)
+frq(proc_sup_i$DISTRITO)
+frq(proc_sup_i$CANTIDAD_DE_INFORMANTES)
+frq(proc_sup_i$EDAD_DIRECTO)
+mean(proc_sup_i$EDAD_DIRECTO)
+class(proc_sup_i$EDAD_DIRECTO) # es una variable character, pero es numérica. cierto? qué ocurre aquí? 
+
+frq(proc_sup_i$SEXO)
+frq(proc_sup_i$PARENTESCO)
+frq(proc_sup_i$NIVEL)
+frq(proc_sup_i$TERMINO_NIVEL)
+frq(proc_sup_i$NACIONALIDAD)
+frq(proc_sup_i$RONDA_ACTUAL)
+frq(proc_sup_i$MODO_ENCUESTA)
+frq(proc_sup_i$a1)
+frq(proc_sup_i$c1) # quizás requiera otro tipo de visualización y no una tabla de frecuencia, al ser una variable categórica
+frq(proc_sup_i$c9) 
+descr(proc_sup_i$gasto_mensual_d3) # es mejor la función descr() para que entregue estadística descriptiva de esta variable numérica, en vez de una tabla de frecuencia
+descr(proc_sup_i$ingreso_mensual_no_agricola)
+frq(proc_sup_i$tramos_ganancia_declarada) 
+frq(proc_sup_i$tramos_ganancia_estimada) # no sé si es válido
+frq(proc_sup_i$e3)
+frq(proc_sup_i$SI_E11_1)
+
+# quedaron muchas variables para ver su frecuencia, pero ya con eso nos hacemos una idea
+
+# B. recodificación
+
+# Para recodificar utilizamos la función recode, de la librería car
+
+proc_sup_i <- proc_sup_i %>% rename("mes"=MARCO, # mes de referencia
+                                    "provincia" =GLOSA_PROVINCIA, # PROVINCIA
+                                    "n_manzana" =MZ_ENUMERACION,
+                                    "cantidad_informantes" =CANTIDAD_DE_INFORMANTES,
+                                    "edad_d" =EDAD_DIRECTO,
+                                    "cpropia_mes" =a1,
+                                    "act_ppal" =c1,
+                                    "lugar_act" =c9,
+                                    "gasto_mes" =gasto_mensual_d3)
+names(proc_sup_i)
+
+# la recodificación de nombres quedó mal hecha. No ejecutar el script desde la línea 217.
+# no hay que sobreescribir los objetos 
+
+
+
+
+
+
+
+
+
 
 
 
