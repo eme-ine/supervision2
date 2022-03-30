@@ -1,6 +1,6 @@
 ---
 title: "Informe cualitativo focus group de supervisores"
-author: "Ignacio Tapia Fuentes"
+author: "Ignacio Tapia Fuentes, Martín Venegas"
 date: "29-03-2022"
 output: html_document
 ---
@@ -35,7 +35,7 @@ En este sentido, siguiendo esta pauta se han definido las siguientes dimensiones
 
 ### Resultados
 
-#### 1. _Respecto al cuestionario:_
+#### 1. Respecto al cuestionario:
 
 * Existencia en el directorio de información prescindible y a la vez la falta de datos necesarios de los informantes (nombres precisos, números actualizados, direcciones actualizadas, entre otros) 
 * El resumen de contacto de supervisión en la práctica no permite ingresar todos los contactos realizados por la supervisión. Esto genera un problema pues el informante puede molestarse debido a los distintos contactos.
@@ -44,7 +44,7 @@ En este sentido, siguiendo esta pauta se han definido las siguientes dimensiones
 * En el módulo A de "antecedentes generales" si se responde "no" a la pregunta SI_1 _¿usted contestó la Encuesta de Microemprendimiento?_ de igual forma quedan incompletas las preguntas siguientes.
 
 
-#### 2. _Respecto a la capacitación:_ 
+#### 2. Respecto a la capacitación: 
 
 * Distintas intervenciones indican que, en ocasiones, las capacitaciones fueron muy extensas lo que provocó tener que realizar las evaluaciones fuera de horario laboral.
 * Se considera que las capacitaciones fueron muy teóricas y no se priorizó la actividad práctica con los instrumentos a utilizar. 
@@ -53,14 +53,16 @@ En este sentido, siguiendo esta pauta se han definido las siguientes dimensiones
 * Existencia de dos versiones de instrumentos de evaluación para distintos encuestadores tendía a confundir acerca de las respuestas correctas.
 * Se menciona que se capacitó teóricamente sobre el Sistema de Gestión Operativa de Hogares (SGOH) pero que el día que se haría la capacitación práctica, este sistema no estuvo disponible, por lo que los encargados de grupo tuvieron que comenzar a trabajar sin entender el funcionamiento del sistema.
 * Se considera entre los entrevistados que las respuestas de los instrumentos de evaluación fueron ambiguas y eso generaba la sensación de que los parámetros de evaluación quizás no estaban bien definidos.
-* Se menciona en distintas oportunidades la importancia de contar con los instrumentos el día de la capacitación, entre estos, el cuestionario de levantamiento, 
+* Se menciona en distintas oportunidades la importancia de contar con los instrumentos el día de la capacitación, entre estos, el cuestionario de recolección, los 
  
 
+#### 3. Respecto al modo y medio
 
 
-### 3. Respecto al modo y medio
 
-### 4. Respecto a la evaluación del trabajo en terreno
+#### 4. Respecto a la evaluación del trabajo en terreno
+
+
 
 </div>
 
