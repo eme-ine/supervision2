@@ -1,0 +1,31 @@
+---
+title: "Informe cualitativo focus group de supervisores"
+author: "Ignacio Tapia Fuentes"
+date: "29-03-2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<div class=text-justify>
+
+## Introducción
+
+El presente reporte tiene como finalidad informar los hallazgos encontrados a través del análisis correspondiente al focus group de supervisores, el cual está enmarcado dentro de las técnicas cualitativas a utilizar para la generación de insumos e información relevante para la proposición de cambios dentro de distintas instancias de la VII versión de la Encuesta de Microemprendimiento 2022.
+
+En este contexto, este informe también tiene como objetivo complementar el Reporte de Hallazgos para Cambios en el Cuestionario (insertar link al informe de Martín) como insumo sobre aspectos relativos a los cambios sugeridos por supervisores al cuestionario oficial, la capacitación de los mismos así como hallazgos respecto al medio y modo de la encuesta. 
+
+## Metodología 
+
+Para llevar a cabo este reporte se ha utilizado como insumo principal las grabaciones de voz de los discursos, opiniones y alcances tanto de los supervisores como de la encargada de grupo. Estas intervenciones por parte de los participantes del focus group fueron guiadas bajo la "Pauta de Focus Supervisores" (insertar link a la pauta de Martín) a través del Coordinador Técnico de la EME. 
+
+Derivado de la grabación del focus group se ha generado la transcripción de la misma, a través de la cual se ha extraido la información relevante mediante la saturación del discurso, o sea, en aquellos temas donde la discusión redundó y convergió. 
+
+Originalmente, la pauta del focus group contenía más preguntas de las que, en virtud del tiempo, pudieron ser contestadas. Sin embargo, sí se lograron realizar aquellas preguntas con mayor relevancia para el estudio. 
+
+En este sentido, en base tanto a las preguntas y respuestas del focus group se clasificaron sus temáticas y resultados en tres dimensiones: 1. Sugerencias de cambios al cuestionario oficial; 2. Respecto al medio y modo, y; 3. Respecto a la capacitación de la supervisión.
+
+</div>
+
