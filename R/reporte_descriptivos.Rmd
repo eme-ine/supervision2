@@ -1,0 +1,25 @@
+---
+title: "Informe indicadores de supervisión indirecta"
+author: "Ignacio Tapia Fuentes"
+date: "30-03-2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### 1. Introducción
+
+Este reporte tiene por finalidad informar sobre distintos estadísticos descriptivos en referencia a la base de datos de supervisión indirecta.
+
+### 2. Análisis introductorios
+
+supervisiones hechas 
+
+```{r supervisiones hechas}
+frq(sup_i$REG_SUPE)
+```
+
+
+
