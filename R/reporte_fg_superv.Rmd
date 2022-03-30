@@ -11,21 +11,56 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div class=text-justify>
 
-## Introducción
+### Introducción
 
 El presente reporte tiene como finalidad informar los hallazgos encontrados a través del análisis correspondiente al focus group de supervisores, el cual está enmarcado dentro de las técnicas cualitativas a utilizar para la generación de insumos e información relevante para la proposición de cambios dentro de distintas instancias de la VII versión de la Encuesta de Microemprendimiento 2022.
 
 En este contexto, este informe también tiene como objetivo complementar el Reporte de Hallazgos para Cambios en el Cuestionario (insertar link al informe de Martín) como insumo sobre aspectos relativos a los cambios sugeridos por supervisores al cuestionario oficial, la capacitación de los mismos así como hallazgos respecto al medio y modo de la encuesta. 
 
-## Metodología 
+### Metodología 
 
-Para llevar a cabo este reporte se ha utilizado como insumo principal las grabaciones de voz de los discursos, opiniones y alcances tanto de los supervisores como de la encargada de grupo. Estas intervenciones por parte de los participantes del focus group fueron guiadas bajo la "Pauta de Focus Supervisores" (insertar link a la pauta de Martín) a través del Coordinador Técnico de la EME. 
+Para llevar a cabo este reporte se ha utilizado como insumo principal las grabaciones de voz que incluyen los discursos, opiniones y alcances tanto de los supervisores como de la encargada de grupo. Estas intervenciones por parte de los participantes del focus group fueron guiadas bajo la "Pauta de Focus Supervisores" (insertar link a la pauta de Martín) a través del Coordinador Técnico de la EME. 
 
 Derivado de la grabación del focus group se ha generado la transcripción de la misma, a través de la cual se ha extraido la información relevante mediante la saturación del discurso, o sea, en aquellos temas donde la discusión redundó y convergió. 
 
 Originalmente, la pauta del focus group contenía más preguntas de las que, en virtud del tiempo, pudieron ser contestadas. Sin embargo, sí se lograron realizar aquellas preguntas con mayor relevancia para el estudio. 
 
-En este sentido, en base tanto a las preguntas y respuestas del focus group se clasificaron sus temáticas y resultados en tres dimensiones: 1. Sugerencias de cambios al cuestionario oficial; 2. Respecto al medio y modo, y; 3. Respecto a la capacitación de la supervisión.
+En este sentido, siguiendo esta pauta se han definido las siguientes dimensiones a analizar:
+
+* Respecto al cuestionario
+* Respecto a la capacitación
+* Respecto al modo y medio
+* Respecto a la evaluación del trabajo en terreno
+* Recomendaciones
+
+### Resultados
+
+#### 1. _Respecto al cuestionario:_
+
+* Existencia en el directorio de información prescindible y a la vez la falta de datos necesarios de los informantes (nombres precisos, números actualizados, direcciones actualizadas, entre otros) 
+* El resumen de contacto de supervisión en la práctica no permite ingresar todos los contactos realizados por la supervisión. Esto genera un problema pues el informante puede molestarse debido a los distintos contactos.
+* Varias intervenciones de los entrevistados apuntan a que el cuestionario de supervisión indirecta abre módulos que no deberían abrirse, lo que en la práctica provoca que la encuesta quede incompleta.
+* Esto puede verse por ejemplo, cuando se da un caso fuera de marco (código 68) de todas formas se abre el módulo A de antecedentes generales. 
+* En el módulo A de "antecedentes generales" si se responde "no" a la pregunta SI_1 _¿usted contestó la Encuesta de Microemprendimiento?_ de igual forma quedan incompletas las preguntas siguientes.
+
+
+#### 2. _Respecto a la capacitación:_ 
+
+* Distintas intervenciones indican que, en ocasiones, las capacitaciones fueron muy extensas lo que provocó tener que realizar las evaluaciones fuera de horario laboral.
+* Se considera que las capacitaciones fueron muy teóricas y no se priorizó la actividad práctica con los instrumentos a utilizar. 
+* Los supervisores mencionan que en las evaluaciones existieron preguntas confusas, cuyas respuestas no se conseguían con los manuales ni en las presentaciones. (confirmar esto con supervisores)
+* Hubieron presentaciones de las capacitaciones donde se explicaron procedimientos que a juicio de los supervisores eran innecesarios, por ejemplo, "cómo se prende una tablet; no dejar sobre ciertas superficies". Se alude a que es tiempo que podría ser aprovechado en ejercicios prácticos.
+* Existencia de dos versiones de instrumentos de evaluación para distintos encuestadores tendía a confundir acerca de las respuestas correctas.
+* Se menciona que se capacitó teóricamente sobre el Sistema de Gestión Operativa de Hogares (SGOH) pero que el día que se haría la capacitación práctica, este sistema no estuvo disponible, por lo que los encargados de grupo tuvieron que comenzar a trabajar sin entender el funcionamiento del sistema.
+* Se considera entre los entrevistados que las respuestas de los instrumentos de evaluación fueron ambiguas y eso generaba la sensación de que los parámetros de evaluación quizás no estaban bien definidos.
+* Se menciona en distintas oportunidades la importancia de contar con los instrumentos el día de la capacitación, entre estos, el cuestionario de levantamiento, 
+ 
+
+
+
+### 3. Respecto al modo y medio
+
+### 4. Respecto a la evaluación del trabajo en terreno
 
 </div>
 
